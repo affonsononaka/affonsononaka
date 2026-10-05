@@ -34,7 +34,6 @@ O projeto apresenta:
   💉 Controle de vacinação
   ❤️ Registro de adoções
   📰 Blog e artigos
-  ❓ FAQ
   👤 Portfólio dos integrantes
 
 Tecnologias: HTML5 e CSS3
